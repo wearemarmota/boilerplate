@@ -16,3 +16,14 @@ También un archivo main.js preparado con el loader de jQuery.
 
  * [favicons](https://gist.github.com/jamesflorentino/3769868): códigos para la inclusión de favicons.
  * [bootstrap_ms](https://gist.github.com/firepol/7942411): Incluye un tamaño intermedio entre sm y xs.
+
+## Uglify
+
+El Javascript que se usa está minificado. El boilerplate incluye una tarea de [Gulp](http://gulpjs.com/) para procesarlo.
+
+El uso sería el siguiente:
+
+- Si no se tiene instalado [node y npm](http://www.nodejs.org), instalarlo desde la web oficial. 
+- La primera vez que se va a usar, habrá que instalar las dependencias con el código ``npm install``
+- Se necesita tener instalado [Gulp](http://gulpjs.com/), ``npm install --global gulp-cli``
+- Cuando se tiene todo el entorno preparado, sólo hay que escribir ``gulp`` para procesar los archivos de Javascript.

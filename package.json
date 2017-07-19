@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-util": "^0.5.5",
+    "gulp-uglify": "^3.0.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearemarmota/boilerplate.git"
+  },
+  "author": "Josep Viciana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wearemarmota/boilerplate/issues"
+  },
+  "homepage": "https://github.com/wearemarmota/boilerplate#readme"
+}
