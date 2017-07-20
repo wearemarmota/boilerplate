@@ -16,6 +16,7 @@ También un archivo main.js preparado con el loader de jQuery.
 
  * [favicons](https://gist.github.com/jamesflorentino/3769868): códigos para la inclusión de favicons.
  * [bootstrap_ms](https://gist.github.com/firepol/7942411): Incluye un tamaño intermedio entre sm y xs.
+ * [mobile-chrome-vh-fix](https://github.com/Stanko/mobile-chrome-vh-fix): Utilidad para corregir el comportamiento de la unidad vh en Chrome Mobile
 
 ## Uglify
 
