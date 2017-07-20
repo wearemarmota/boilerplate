@@ -27,3 +27,6 @@ El uso sería el siguiente:
 - La primera vez que se va a usar, habrá que instalar las dependencias con el código ``npm install``
 - Se necesita tener instalado [Gulp](http://gulpjs.com/), ``npm install --global gulp-cli``
 - Cuando se tiene todo el entorno preparado, sólo hay que escribir ``gulp`` para procesar los archivos de Javascript.
+
+---
+![We Are Marmota](http://res.wearemarmota.com/logo-1.svg)
