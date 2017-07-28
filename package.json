@@ -1,13 +1,13 @@
 {
   "name": "boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.html",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat-util": "^0.5.5",
-    "gulp-uglify": "^3.0.0",
+    "gulp-uglify": "^3.0.0"
   },
   "repository": {
     "type": "git",
