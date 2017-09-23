@@ -30,4 +30,4 @@ El uso sería el siguiente:
 - Cuando se tiene todo el entorno preparado, sólo hay que escribir ``gulp`` para procesar los archivos de Javascript.
 
 ---
-![We Are Marmota](http://res.wearemarmota.com/logo-1.svg)
+[![we are Marmota](http://res.wearemarmota.com/logo-1.svg)](http://www.wearemarmota.com)
