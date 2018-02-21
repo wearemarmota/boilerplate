@@ -1,13 +1,16 @@
 {
   "name": "boilerplate",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "index.html",
+  "scripts": {
+    "watch-css": "node-sass --watch assets/css/masters/ -o assets/css/dist --output-style compressed",
+    "watch-js": "simplifyify assets/js/masters/main.js --outfile assets/js/dist/main.min.js --watch --minify --debug",
+    "watch": "npm run watch-css & npm run watch-js"
+  },
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-concat-util": "^0.5.5",
-    "gulp-uglify": "^3.0.0"
+    "simplifyify": "^4.0.0"
   },
   "repository": {
     "type": "git",
@@ -18,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/wearemarmota/boilerplate/issues"
   },
-  "homepage": "https://github.com/wearemarmota/boilerplate#readme"
+  "homepage": "https://github.com/wearemarmota/boilerplate"
 }
