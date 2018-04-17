@@ -4,7 +4,7 @@
 
 Esta base usa SASS / SCSS. Está pensado para usarse con una tarea de NPM ya incluida, que usa ``node-sass``. La tarea se puede ejecutar con ``npm run watch-css``. 
 
-También incluye (a través de un CDN) una versión actualizada de [Bootstrap](http://getbootstrap.com/) , hoy por hoy, la 4.0.0.
+También incluye (a través de un CDN) una versión actualizada de [Bootstrap](http://getbootstrap.com/) , hoy por hoy, la 4.1.0.
 
 ## Javascript
 
